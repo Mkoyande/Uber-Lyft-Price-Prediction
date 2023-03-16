@@ -1,4 +1,4 @@
-# Telecom-Customer-Churn-Prediction
+# Uber-Lyft-Price-Prediction
 
 Abstract:
 
